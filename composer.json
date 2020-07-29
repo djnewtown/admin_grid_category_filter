@@ -1,0 +1,18 @@
+{
+  "name": "newtown/admin-grid-category-filter",
+  "license": "proprietary",
+  "type": "magento-module",
+  "description": "see readme",
+  "homepage": "http://www.newtown.at",
+  "require": {
+    "php": ">=5.4",
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Daniel Janin",
+      "email": "dj@newtown.at",
+      "role": "Maintainer"
+    }
+  ]
+}
